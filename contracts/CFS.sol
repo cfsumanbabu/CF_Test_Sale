@@ -205,8 +205,8 @@ contract CFS is ERC20Token {
   uint public  DATE_PRESALE_START = 1529584233; // 06/21/2018 @ 6:00pm (IST)
   uint public  DATE_PRESALE_END   = 4370022000; // 06/24/2018 @ 4:30pm (IST)
 
-  uint public  DATE_ICO_START =4370054400 ; // 06/26/2018 @ 1:30am (UTC)
-  uint public  DATE_ICO_END   = 4370313600; // 06/28/2018 @ 1:00pm (UTC)
+  uint public  DATE_ICO_START =4370054400 ; // 06/26/2018 @ 1:30am (IST)
+  uint public  DATE_ICO_END   = 4370313600; // 06/28/2018 @ 1:00pm (IST)
 
   /* ICO tokens per ETH */
   
